@@ -7,4 +7,4 @@
 Gemini всегда прекрасно читал тексты на изображениях ( в том числе на русском), кроме того, появилась более продвинутая Gemini 2.5 Pro Experimental -  мультимодальная, рассуждающая ИИ модель, которую компания называет самой интеллектуальной моделью на сегодняшний день.
 Следовательно, был выбран Gemini 2.5 Experimental в Google AI Studio:
 
-<img src="https://github.com/BestKora/HotelGemini2_5/blob/2de19fe24000e40ee81c1c1916442265b29e21f4/HotelRooms.png" width="850">
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/a9e6f5de22d766a5900889d5b5fdffff33edaac3/AIStudio.png" width="850">
