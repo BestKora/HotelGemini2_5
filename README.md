@@ -19,4 +19,7 @@ Gemini всегда прекрасно читал тексты на изобра
 ### Бронирование номера отеля (часть 1)
 Прототип экрана из Figma:
 
-<img src="https://github.com/BestKora/HotelGemini2_5/blob/76989b001302ab4f2dc9381d814bc9f22a2f1ed9/RussianTranslateGoals.png"  width="550">
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/48a43c695ecb9e5eaa585ee02f25cf0cdb71d2ab/Booking.png"  width="550">
+
+Вот как функционирует View для бронирования номера:
+
