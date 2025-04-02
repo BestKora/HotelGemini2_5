@@ -13,4 +13,4 @@ Gemini всегда прекрасно читал тексты на изобра
 
 Результат превзошел все возможные ожидания. Gemini 2.5 Experimental воспроизвёл в SwiftUI с поразительной точностью все стили текстов и функциональные возможности прототипов, подготовленных дизайнерами в Figma, и выдал интересный и изобретательный SwiftUI код, а не пытался отделаться "заглушками". Конечно, это лишь стартовая реализация кода данного iOS приложения, но очень перспективная.
 
-<img src="https://github.com/BestKora/HotelGemini2_5/blob/a9e6f5de22d766a5900889d5b5fdffff33edaac3/AIStudio.png" width="1050">
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/6a14a32d5eff98b1d965d0f7551e74ab5362066d/HotelInfoView.gif" width="1050">
