@@ -1,4 +1,4 @@
-## Google AI Studio c Gemini 2.5 для создания iOS приложений на основе «картинок» из Figma
+## Google AI Studio: макеты Figma -> iOS приложение на Gemini 2.5 Experimental 
 
 Требовалось создать iOS приложения для бронирования номера в Отеле на основе прототипов экранов из Figma, в которых использовалась "карусель" из фото.
 Я использовала ИИ для разработки такого iOS приложения по прототипам из Figma. Прямо скажем, что текст на прототипах экранов не очень отчетливо виден, так что ИИ предстоит его сначала прочитать, а уже потом создать iOS приложение.
@@ -32,4 +32,4 @@ Gemini всегда прекрасно читал тексты на изобра
 
 Вот как функционирует View для ввода туристов:
 
-<img src="https://github.com/BestKora/HotelGemini2_5/blob/cef8aca69e6bbabdd6a995ac8d31968f43c35cf3/Booking.gif" width="300">
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/8eae2fc2ac25db81c6500c22e7cf6640d28daaa2/Tourists.gif" width="300">
