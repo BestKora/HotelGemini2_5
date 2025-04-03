@@ -26,10 +26,10 @@ Gemini всегда прекрасно читал тексты на изобра
 <img src="https://github.com/BestKora/HotelGemini2_5/blob/cef8aca69e6bbabdd6a995ac8d31968f43c35cf3/Booking.gif" width="300">
 
 ### Бронирование номера отеля (часть 2)
-
 Прототип экрана из Figma:
+
 <img src="https://github.com/BestKora/HotelGemini2_5/blob/791f7414a9eb3eff35527e66be7d1ac2ff13b3f8/Tourists.png"  width="400">
 
+Вот как функционирует View для ввода туристов:
 
-
-
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/cef8aca69e6bbabdd6a995ac8d31968f43c35cf3/Booking.gif" width="300">
