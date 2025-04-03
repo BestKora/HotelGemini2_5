@@ -14,7 +14,7 @@ Gemini всегда прекрасно читал тексты на изобра
 
 Результат превзошел все возможные ожидания. Gemini 2.5 Experimental воспроизвёл в SwiftUI с поразительной точностью все стили текстов и функциональные возможности прототипов, подготовленных дизайнерами в Figma, и выдал интересный и изобретательный SwiftUI код, а не пытался отделаться "заглушками". Конечно, это лишь стартовая реализация кода данного iOS приложения, но очень перспективная.
 
-<img src="https://github.com/BestKora/HotelGemini2_5/blob/6a14a32d5eff98b1d965d0f7551e74ab5362066d/HotelInfoView.gif" width="250">
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/6a14a32d5eff98b1d965d0f7551e74ab5362066d/HotelInfoView.gif" width="350">
 
 ### Бронирование номера отеля (часть 1)
 Прототип экрана из Figma:
@@ -22,4 +22,6 @@ Gemini всегда прекрасно читал тексты на изобра
 <img src="https://github.com/BestKora/HotelGemini2_5/blob/af44ee291c17e414309a5954f95958f172a494c0/BookingNew.png"  width="450">
 
 Вот как функционирует View для бронирования номера:
+
+<img src="https://github.com/BestKora/HotelGemini2_5/blob/6a14a32d5eff98b1d965d0f7551e74ab5362066d/HotelInfoView.gif" width="350">
 
